@@ -1,0 +1,9 @@
+{
+    "cardmarket": {
+    	"app_token": "your_app_token",
+    	"app_secret": "your_app_secret",
+    	"access_token": "your_access_token",
+    	"access_secret": "your_access_secret"
+    }
+}
+     
